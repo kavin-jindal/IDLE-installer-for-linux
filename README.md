@@ -4,7 +4,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![GitHub release](https://img.shields.io/github/release/kavinjindal/Nix-Engine.svg)](https://gitHub.com/kavinjindal/Nix-Engine/releases/)
+ ![GitHub release (latest by date)](https://img.shields.io/github/v/release/kavinjindal/Nix-Engine?style=for-the-badge)
 
 
 
