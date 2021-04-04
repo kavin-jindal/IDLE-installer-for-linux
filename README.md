@@ -4,12 +4,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://gitHub.com/kavinjindal/Nix-Engine/releases/)
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://gitHub.com/kavinjindal/Nix-Engine/commit/)
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://gitHub.com/kavinjindal/Nix-Engine/releases/)
+[![GitHub release](https://img.shields.io/github/release/kavinjindal/Nix-Engine.svg)](https://gitHub.com/kavinjindal/Nix-Engine/releases/)
 
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/kavinjindal/Nix-Engine/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://gitHub.com/kavinjindal/Nix-Engine/stargazers/)
+
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
