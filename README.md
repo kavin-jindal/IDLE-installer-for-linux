@@ -97,7 +97,7 @@ Email: kavinsjindal@gmail.com
 
 Discord ID: KJ#7320
 
-Discord Server: 
+Discord Server: https://discord.gg/vdzJyj3gWa
 
 
 
